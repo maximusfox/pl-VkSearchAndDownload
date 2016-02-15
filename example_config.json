@@ -1,0 +1,11 @@
+{
+	"user": {
+		"login": "PingvinValentin",
+		"password": "mySyCretKey"
+	},
+	"path": {
+		"results": "saved",
+		"input": "searches.txt"
+	},
+	"threads": 5
+}
